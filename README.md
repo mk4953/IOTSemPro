@@ -1,1 +1,3 @@
-# IOTSemPro
+Author:
+Tommy Kjær Jensen
+Mevlüt Kahraman
